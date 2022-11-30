@@ -1,0 +1,1 @@
+This is where we begin learning Python Programming Language - a Higher level Programming language. 
